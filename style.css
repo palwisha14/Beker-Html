@@ -618,6 +618,7 @@ input{
     transition-duration: 1s;
     outline: none;
     margin-top: 5%;
+    /* bjnsjs */
 }
 .but1:hover{
     background-color: #1473E6;
